@@ -67,7 +67,7 @@ the image below decribes how the conceptual convolving operation differs from th
 # 6. Training the model
 achieving over 75% accuracy in 10 epochs through 5 batches.
 
-<img src="./training.png" alt="Drawing"/>
+<img src="./training.PNG" alt="Drawing"/>
 
 # 7. Prediction
-<img src="./prediction.png" alt="Drawing"/>
+<img src="./prediction.PNG" alt="Drawing"/>
